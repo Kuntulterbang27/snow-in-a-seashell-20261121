@@ -5,7 +5,7 @@ from pathlib import Path
 TEXT = (
     "Your back rests against a redwood. "
     "Rain passes from branch to branch, far overhead. "
-    "The tree was shelter before this path was here. "
+    "A thousand winters lie quiet in the wood. "
     "By the time a drop reaches the moss beside your hand, you are asleep. "
     "The rest of the rain has all night."
 )
