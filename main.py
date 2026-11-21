@@ -3,10 +3,10 @@ import os
 from pathlib import Path
 
 TEXT = (
-    "On the porch, you turn a fossil shell in your warm palm. "
-    "A sea once moved inside these hills. "
-    "Rain taps the roof, then thins. "
-    "The shell rests in the hollow of your hand while the hills disappear into cloud."
+    "You are half asleep in a redwood's shade. "
+    "Rain stays high in the branches, then finds its way down, leaf to leaf. "
+    "The tree was old before this path was made. "
+    "A drop lands beside your hand. Another is still on its way."
 )
 
 
