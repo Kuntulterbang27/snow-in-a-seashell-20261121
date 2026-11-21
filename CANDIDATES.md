@@ -14,3 +14,7 @@ The published brief ranks relaxation first, effortless showing second, slow plai
 First-trial polish: the final sentence in main.py now reads, "All afternoon, snow settles into its curves, one flake at a time." The change replaces a general description with individual arrivals that slow the reading. It retains the same shell and mountain rather than adding another metaphor. Later live revisions may change one major image or viewpoint at a time, but only after an actual server score and visible standing are read.
 
 The six draft files remain unchanged as the original candidate set; main.py carries the exact text of each submitted revision in Git history. A later candidate may be restored if its measured development result is stronger, because the last submission, not a historical best, is the one that counts.
+
+Live trial 1: server development win_rate_micro 758029, with five wins, four draws and two losses over eleven games. The visible rank-80 value at the observation was 846635; our row was not yet present in that leaderboard response. This is a scored result, not a final qualification. Several recorded reasons praised the shell but found the distant observation less personally settling.
+
+Live trial 2 changes the viewpoint, not the deep-time subject. The reader holds the shell on a sheltered porch. A warm palm and rain fading on the roof provide bodily ease without a command to relax. The hills keep the old seabed's scale. This is an original revision of candidate six, not language borrowed from the Feed.

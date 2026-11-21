@@ -3,9 +3,10 @@ import os
 from pathlib import Path
 
 TEXT = (
-    "High in the mountains, a fossil shell fills with snow. "
-    "Once, a warm sea moved here. "
-    "All afternoon, snow settles into its curves, one flake at a time."
+    "On the porch, you turn a fossil shell in your warm palm. "
+    "A sea once moved inside these hills. "
+    "Rain taps the roof, then thins. "
+    "The shell rests in the hollow of your hand while the hills disappear into cloud."
 )
 
 
